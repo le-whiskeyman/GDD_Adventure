@@ -1,0 +1,17 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d41ce1ab00f02d54c8842f7c67828c08, type: 3}
+  m_Name: Water
+  m_EditorClassIdentifier: 
+  Sprite: {fileID: -2759432205056024920, guid: 6947326191afa4c4da9df6c49f90c313, type: 3}
+  TileEffect: 2
+  ColorTint: {r: 1, g: 1, b: 1, a: 1}

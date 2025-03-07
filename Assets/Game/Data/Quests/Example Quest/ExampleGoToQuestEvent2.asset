@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 74e4728b8ce416140a46d20bf7a91aac, type: 3}
+  m_Name: ExampleGoToQuestEvent2
+  m_EditorClassIdentifier: 
+  Name: The Oracle
+  QuestType: 1
+  PositionX: 0.554
+  PositionY: 0.692
+  EventText:
+  - Hello <color=white>Adventurer</color>!
+  - You wish to know your fate?
+  - I see you making a great game with this example project!
+  QuestTriggertPrefab: {fileID: 8844120418833417358, guid: d51f1a59885c2ac4f9b2b9699cdc7de9, type: 3}

@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9eae74adb3918af4aab253c323121f5c, type: 3}
+  m_Name: PlayerData
+  m_EditorClassIdentifier: 
+  WalkSpeed: 5
+  IceFrictionMultiplier: 1.5
+  SlowSpeedMultiplier: 0.5
+  MaxHealth: 3
+  IdleAnimationData: {fileID: 11400000, guid: 65330d335fc47e64da9a14bb812a2f8d, type: 2}
+  WalkAnimationData: {fileID: 11400000, guid: 820a47a0613e04345be9cfbca420fffd, type: 2}
+  DeathAnimationData: {fileID: 11400000, guid: 928763823e089994f81b59ceb43f2b21, type: 2}

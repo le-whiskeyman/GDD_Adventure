@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 74e4728b8ce416140a46d20bf7a91aac, type: 3}
+  m_Name: ExampleGoToQuestEvent
+  m_EditorClassIdentifier: 
+  Name: Find the Oracle
+  QuestType: 0
+  PositionX: 0.464
+  PositionY: 0.416
+  EventText:
+  - The <color=#32a6a8>Oracle</color> lives near here!
+  - Journey <color=yellow>North</color> to find her.
+  QuestTriggertPrefab: {fileID: 8844120418833417358, guid: 16027a1b319f4c54bb2d8515011529fb, type: 3}

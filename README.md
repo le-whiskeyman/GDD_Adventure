@@ -1,7 +1,7 @@
 # 🕹️GDD Adventure
 Professor Blake's GDD211-Lab3 Example Project
 
-Use this project as a template for implimenting your own art, animation, level design, and narrative.
+Use this project as a template for implementing your own art, animation, level design, and narrative.
 
 ---
 ## 🎨[Art](#art)  •  🗡️[Quests](#quests)
@@ -24,7 +24,7 @@ To **add** an art asset:
   - Apply a **Color Tint** (optional).
   - ![s2](https://github.com/user-attachments/assets/fa1c1768-8702-4a3a-a7dc-3e3ebaba5030)
   - In the Tiles Prefab folder `Assets > Game > Prefabs > Tiles`, duplicate an existing Tile Prefab and change the **Tile Data** field of the **Tile** component to your new **Tile Data**.
-  - In the scene hierarchy, add your new **Tile Prefab** to the **World Controller**'s Tile Prefabs list. Tiles will appear next to eachother in the scene, so move yours into a position that works for you.
+  - In the scene hierarchy, add your new **Tile Prefab** to the **World Controller**'s Tile Prefabs list. Tiles will appear next to each other in the scene, so move yours into a position that works for you.
 ---
 
 # Quests
@@ -32,7 +32,7 @@ The Quest system allows you to design quests using only scriptable objects.
 
 To create a new quest:
 - ![s4](https://github.com/user-attachments/assets/e8146af3-8304-4986-8903-eb9da2d49e87)
-- In the Quest Data folder `Asests > Game > Data > Quests` make a new Quest Data asset `Create > Data > Quests > Quest Data`.
+- In the Quest Data folder `Assets > Game > Data > Quests` make a new Quest Data asset `Create > Data > Quests > Quest Data`.
   - This asset contains the various **Quest Events** that make up the Quest. You can have as many Quest Events in a Quest as you like.
 - Set the Name and Description fields for your Quest.
 - Add text to the **Event Text** list to display text to the player when they first begin the quest.

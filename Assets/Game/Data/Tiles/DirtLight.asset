@@ -12,6 +12,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: d41ce1ab00f02d54c8842f7c67828c08, type: 3}
   m_Name: DirtLight
   m_EditorClassIdentifier: 
-  Sprite: {fileID: 0}
+  Sprite: {fileID: 5634026908348037240, guid: 715c00c1e3a87864f90c847fc16bfe91, type: 3}
   TileEffect: 0
-  ColorTint: {r: 0.5698112, g: 0.51036364, b: 0.31715906, a: 1}
+  ColorTint: {r: 1, g: 1, b: 1, a: 1}

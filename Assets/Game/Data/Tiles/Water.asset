@@ -12,6 +12,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: d41ce1ab00f02d54c8842f7c67828c08, type: 3}
   m_Name: Water
   m_EditorClassIdentifier: 
-  Sprite: {fileID: -2759432205056024920, guid: 6947326191afa4c4da9df6c49f90c313, type: 3}
+  Sprite: {fileID: 8844726338529794560, guid: 8f8e8f9f28355c14480cd837606f9209, type: 3}
   TileEffect: 2
   ColorTint: {r: 1, g: 1, b: 1, a: 1}

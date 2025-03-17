@@ -12,6 +12,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: d41ce1ab00f02d54c8842f7c67828c08, type: 3}
   m_Name: Radiation
   m_EditorClassIdentifier: 
-  Sprite: {fileID: -3280857339140121840, guid: ae8bbdfa2878aca4e8f343345ebd0641, type: 3}
+  Sprite: {fileID: -2280599747366659314, guid: f530f3700d7dd86488dc810cf9f7e2cd, type: 3}
   TileEffect: 2
-  ColorTint: {r: 0.9478478, g: 1, b: 0.41320753, a: 1}
+  ColorTint: {r: 0.96981126, g: 0.3984182, b: 0.107960045, a: 1}

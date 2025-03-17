@@ -12,6 +12,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: d41ce1ab00f02d54c8842f7c67828c08, type: 3}
   m_Name: Slime
   m_EditorClassIdentifier: 
-  Sprite: {fileID: 0}
+  Sprite: {fileID: -2280599747366659314, guid: f530f3700d7dd86488dc810cf9f7e2cd, type: 3}
   TileEffect: 2
   ColorTint: {r: 0.45233884, g: 0.6830188, b: 0.46798235, a: 1}

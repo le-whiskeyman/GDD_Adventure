@@ -12,6 +12,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: d41ce1ab00f02d54c8842f7c67828c08, type: 3}
   m_Name: Ice
   m_EditorClassIdentifier: 
-  Sprite: {fileID: 3742506058015552198, guid: 2f9a2b709e81a0546ac48ed01dc16128, type: 3}
+  Sprite: {fileID: -856085545168688419, guid: cea4ec61202ba5f4a856fc36cbb2788a, type: 3}
   TileEffect: 3
   ColorTint: {r: 1, g: 1, b: 1, a: 1}

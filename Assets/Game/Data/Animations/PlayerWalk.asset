@@ -14,7 +14,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   AnimationName: Walk
   SpriteSequence:
-  - {fileID: -6318963395282467131, guid: d56afaad9591b45488ffa72d4b42dfcd, type: 3}
-  - {fileID: -1982761236078353284, guid: 7f531a5f58eff2f4daad5800b2935752, type: 3}
+  - {fileID: 5905681027756182028, guid: 7626ef8cfd0691a49b3d054466261e72, type: 3}
+  - {fileID: -4243389574673483943, guid: 8d2bcc1c8f43a7c4b872a18fbe203f7e, type: 3}
   FrameTime: 0.2
   Looping: 1
